@@ -13,3 +13,4 @@ A list of Multimodal studies.
 |:--------|:--------:|:--------:|:--------:|
 | [MMRL: Multi-Modal Representation Learning for Vision-Language Models](https://arxiv.org/abs/2503.08497)  | CVPR | 2025 | [Code](https://github.com/yunncheng/MMRL) | 
 | [MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models](https://arxiv.org/abs/2505.10088)  | Arxiv | 2025 | [Code](https://github.com/yunncheng/MMRL) | 
+| [Logits DeConfusion with CLIP for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Logits_DeConfusion_with_CLIP_for_Few-Shot_Learning_CVPR_2025_paper.html)  | CVPR | 2025 | [Code]([https://github.com/yunncheng/MMRL](https://github.com/LiShuo1001/LDC)) | 
